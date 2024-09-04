@@ -18,5 +18,5 @@ rect ( 0, 200, 600, 200 ) ;
 //emojis
 textSize( 75 )
 text ( "🌸" , 100, 250 ) //flower
-text ( "🐞" , 300, 250) //ladybug
+text ( "🐞" , mouseX, mouseY) //ladybug
 }
